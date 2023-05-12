@@ -1,2 +1,2 @@
 # async_python
-Async programming exercises in Python
+Async programming practice in Python
