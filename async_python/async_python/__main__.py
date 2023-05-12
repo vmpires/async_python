@@ -1,4 +1,3 @@
-import time
 import asyncio
 from faker import Faker
 
